@@ -1,0 +1,3 @@
+name,description,durationInDays,preqSkills,gainedSkills,supplierName
+front,front end course , 10 , "HTML , CSS ,JS", "REACT , JSX ",instant
+back,back end course , 15 , "DB , JAVA ,SQL ", "NODE , EXPRESS ",udemy
