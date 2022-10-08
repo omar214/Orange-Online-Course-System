@@ -98,6 +98,16 @@ JWT_PASSWORD= secret
 - \_id : `Object Id`
 - name : `String`
 - description : `String`
+- suppluier : `String`
 - durationInDays : `Number`
+- attendedDays : `Number`
+- isFinished: `Boolean`;
 - preqSkills : `Array of String`
 - gainedSkills: `Array of String`
+
+### Supplier
+
+- \_id : `Object Id`
+- name : `String`
+- totalMoney : `Number`
+- paid : `Number`
