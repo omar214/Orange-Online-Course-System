@@ -31,13 +31,13 @@ it was mainly the graduation project of The orange digital center backemd hackat
 1. **_Clone the repository_**
 
 ```bash
-git clone https://github.com/omar214/orange-course-system.git
+https://github.com/omar214/Orange-Online-Course-System.git
 ```
 
 2. **_Go to the directory of the repository_**
 
 ```bash
-cd orange-course-center
+cd Orange-Online-Course-System
 ```
 
 3. **install dependencies**
